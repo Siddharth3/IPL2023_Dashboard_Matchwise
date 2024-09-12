@@ -41,6 +41,7 @@ For any questions or issues related to the dashboard, please contact:
 
 #### Dashboard Owner/Developer: Siddharth Sahni
 #### Email: sidd.sahni3@gmail.com
+#### LinkedIn: [Siddharth Sahni](https://www.linkedin.com/in/er-siddharth-sahni-36b227103/)
 
 ### Video:
 https://github.com/user-attachments/assets/97d76e41-4ec3-4dee-a48b-c6429658a53b
